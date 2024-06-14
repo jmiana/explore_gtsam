@@ -8,7 +8,7 @@
 To run gtsam on non-Linux computer,
 1. Open a Git Bash terminal.
 2. In your preferred browser, go to https://github.com/borglab/gtsam and clone the repo onto your computer.
-   To clone, click on green <> Code button, copy the web URL, and enter the following command in your bash terminal: git clone <copied link>.
+   To clone, click on green <> Code button, copy the web URL, and enter the following command in your bash terminal: git clone [copied link].
 4. Once cloned, move into the gtsam directory (in your bash terminal).
 5. Go back to your browser with the gtsam repo.
 6. Click on the examples folder and scroll down to the README.
